@@ -217,7 +217,7 @@ Write a beautiful code that passes the Betty checks
 **Repo:**
 
 - GitHub repository: `simple_shell`
-<br>
+</br>
 
 #### 1. Simple shell 0.1					`mandatory`
 
@@ -267,8 +267,8 @@ env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat 
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 2. Simple shell 0.2					`mandatory`
 
 Simple shell 0.1 +
@@ -278,8 +278,8 @@ Simple shell 0.1 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 3. Simple shell 0.3					`mandatory`
 
 Simple shell 0.2 +
@@ -308,8 +308,8 @@ julien@ubuntu:~/shell$
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 4. Simple shell 0.4					`mandatory`
 
 Simple shell 0.3 +
@@ -321,8 +321,8 @@ Simple shell 0.3 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 5. Simple shell 1.0					`mandatory`
 
 Simple shell 0.4 +
