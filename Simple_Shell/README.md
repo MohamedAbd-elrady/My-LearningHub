@@ -217,8 +217,8 @@ Write a beautiful code that passes the Betty checks
 **Repo:**
 
 - GitHub repository: `simple_shell`
-
 <br>
+
 #### 1. Simple shell 0.1					`mandatory`
 
 Write a UNIX command line interpreter.
