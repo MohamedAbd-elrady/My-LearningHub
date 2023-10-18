@@ -346,6 +346,11 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
 
+
+
+<details>
+<summary>Done with Mandatory</summary>
+
 #### 6. Simple shell 0.1.1					`#advanced`
 
 Simple shell 0.1 +
@@ -568,3 +573,5 @@ Simple shell 1.0 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
+
+</details>
