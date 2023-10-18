@@ -355,9 +355,7 @@ julien@ubuntu:~/shell$
 
 
 <details>
-<center>
-	<summary>Done with the mandatory tasks?, Unlock 11 advanced tasks now!</summary>
-</center>
+<center><summary>Done with the mandatory tasks?, Unlock 11 advanced tasks now!</summary></center>
 <br>
 
 #### 6. Simple shell 0.1.1					`#advanced`
