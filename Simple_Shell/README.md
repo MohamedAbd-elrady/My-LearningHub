@@ -349,7 +349,7 @@ julien@ubuntu:~/shell$
 
 
 <details>
-<summary>Done with Mandatory</summary>
+<summary>**Done with Mandatory, test your-self with some advanced tasks**</summary>
 
 #### 6. Simple shell 0.1.1					`#advanced`
 
