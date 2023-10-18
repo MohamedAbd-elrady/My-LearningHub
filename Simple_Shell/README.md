@@ -217,7 +217,7 @@ Write a beautiful code that passes the Betty checks
 **Repo:**
 
 - GitHub repository: `simple_shell`
-</br>
+<br>
 
 #### 1. Simple shell 0.1					`mandatory`
 
@@ -356,8 +356,8 @@ julien@ubuntu:~/shell$
 
 <details>
 <summary>Done with the mandatory tasks?, Unlock 11 advanced tasks now!</summary>
+<br>
 
-</br>
 #### 6. Simple shell 0.1.1					`#advanced`
 
 Simple shell 0.1 +
@@ -374,8 +374,8 @@ You don’t have to:
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 7. Simple shell 0.2.1					`#advanced`
 
 Simple shell 0.2 +
@@ -385,8 +385,8 @@ Simple shell 0.2 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 8. Simple shell 0.4.1					`#advanced`
 
 Simple shell 0.4 +
@@ -404,8 +404,8 @@ julien@ubuntu:~/shell$
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 9. setenv, unsetenv					`#advanced`
 
 Simple shell 1.0 +
@@ -424,8 +424,8 @@ Simple shell 1.0 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 10. cd					`#advanced`
 
 Simple shell 1.0 +
@@ -443,8 +443,8 @@ Implement the builtin command `cd`:
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 11. ;					`#advanced`
 
 Simple shell 1.0 +
@@ -471,8 +471,8 @@ alex@~$
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 12. && and ||					`#advanced`
 
 Simple shell 1.0 +
@@ -516,8 +516,8 @@ alex@~$
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 13. alias					`#advanced`
 
 Simple shell 1.0 +
@@ -531,8 +531,8 @@ Simple shell 1.0 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 14. Variables					`#advanced`
 
 Simple shell 1.0 +
@@ -557,8 +557,8 @@ julien@ubuntu:~/shell$
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 15. Comments					`#advanced`
 
 Simple shell 1.0 +
@@ -575,8 +575,8 @@ julien@ubuntu:~/shell$
 **Repo:**
 
 - GitHub repository: `simple_shell`
+<br>
 
-</br>
 #### 16. File as input					`#advanced`
 
 Simple shell 1.0 +
