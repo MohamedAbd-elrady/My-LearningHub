@@ -209,6 +209,7 @@ $
 The Checker will be released at the end of the project (1-2 days before the deadline). We **strongly** encourage the entire class to work together to create a suite of checks covering both regular tests and edge cases for each task. See task [8. Test suite](https://github.com/LaughingRover/SIMPLE_SHELL_TEST_SUITE).
 
 ## Tasks
+
 #### 0. Betty would be proud					`mandatory`
 
 Write a beautiful code that passes the Betty checks
@@ -217,6 +218,7 @@ Write a beautiful code that passes the Betty checks
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 1. Simple shell 0.1					`mandatory`
 
 Write a UNIX command line interpreter.
@@ -266,6 +268,7 @@ env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat 
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 2. Simple shell 0.2					`mandatory`
 
 Simple shell 0.1 +
@@ -276,6 +279,7 @@ Simple shell 0.1 +
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 3. Simple shell 0.3					`mandatory`
 
 Simple shell 0.2 +
@@ -305,6 +309,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 4. Simple shell 0.4					`mandatory`
 
 Simple shell 0.3 +
@@ -317,6 +322,7 @@ Simple shell 0.3 +
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 5. Simple shell 1.0					`mandatory`
 
 Simple shell 0.4 +
@@ -350,8 +356,8 @@ julien@ubuntu:~/shell$
 
 <details>
 <summary>Done with the mandatory tasks?, Unlock 11 advanced tasks now!</summary>
-</br>
 
+</br>
 #### 6. Simple shell 0.1.1					`#advanced`
 
 Simple shell 0.1 +
@@ -369,6 +375,7 @@ You don’t have to:
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 7. Simple shell 0.2.1					`#advanced`
 
 Simple shell 0.2 +
@@ -379,6 +386,7 @@ Simple shell 0.2 +
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 8. Simple shell 0.4.1					`#advanced`
 
 Simple shell 0.4 +
@@ -397,6 +405,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 9. setenv, unsetenv					`#advanced`
 
 Simple shell 1.0 +
@@ -416,6 +425,7 @@ Simple shell 1.0 +
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 10. cd					`#advanced`
 
 Simple shell 1.0 +
@@ -434,6 +444,7 @@ Implement the builtin command `cd`:
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 11. ;					`#advanced`
 
 Simple shell 1.0 +
@@ -461,6 +472,7 @@ alex@~$
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 12. && and ||					`#advanced`
 
 Simple shell 1.0 +
@@ -505,6 +517,7 @@ alex@~$
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 13. alias					`#advanced`
 
 Simple shell 1.0 +
@@ -519,6 +532,7 @@ Simple shell 1.0 +
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 14. Variables					`#advanced`
 
 Simple shell 1.0 +
@@ -544,6 +558,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 15. Comments					`#advanced`
 
 Simple shell 1.0 +
@@ -561,6 +576,7 @@ julien@ubuntu:~/shell$
 
 - GitHub repository: `simple_shell`
 
+</br>
 #### 16. File as input					`#advanced`
 
 Simple shell 1.0 +
