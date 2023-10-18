@@ -216,8 +216,8 @@ Write a beautiful code that passes the Betty checks
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
-#### 1. Simple shell 0.1\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ `mandatory`
+
+#### 1. Simple shell 0.1					`mandatory`
 
 Write a UNIX command line interpreter.
 
@@ -236,7 +236,7 @@ You don’t have to:
 
 - use the `PATH`
 - implement built-ins
-- handle special characters : `"`, `'`, `\``, `\`, `*`, `&`, `#`
+- handle special characters : `"`, `'`, \`, `\`, `*`, `&`, `#`
 - be able to move the cursor
 - handle commands with arguments
 
@@ -265,7 +265,7 @@ env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat 
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 2. Simple shell 0.2					`mandatory`
 
 Simple shell 0.1 +
@@ -275,7 +275,7 @@ Simple shell 0.1 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 3. Simple shell 0.3					`mandatory`
 
 Simple shell 0.2 +
@@ -304,7 +304,7 @@ julien@ubuntu:~/shell$
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 4. Simple shell 0.4					`mandatory`
 
 Simple shell 0.3 +
@@ -316,7 +316,7 @@ Simple shell 0.3 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 5. Simple shell 1.0					`mandatory`
 
 Simple shell 0.4 +
@@ -345,7 +345,7 @@ julien@ubuntu:~/shell$
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 6. Simple shell 0.1.1					`#advanced`
 
 Simple shell 0.1 +
@@ -362,7 +362,7 @@ You don’t have to:
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 7. Simple shell 0.2.1					`#advanced`
 
 Simple shell 0.2 +
@@ -372,7 +372,7 @@ Simple shell 0.2 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 8. Simple shell 0.4.1					`#advanced`
 
 Simple shell 0.4 +
@@ -390,7 +390,7 @@ julien@ubuntu:~/shell$
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 9. setenv, unsetenv					`#advanced`
 
 Simple shell 1.0 +
@@ -409,7 +409,7 @@ Simple shell 1.0 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 10. cd					`#advanced`
 
 Simple shell 1.0 +
@@ -427,7 +427,7 @@ Implement the builtin command `cd`:
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 11. ;					`#advanced`
 
 Simple shell 1.0 +
@@ -454,12 +454,12 @@ alex@~$
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
-#### 12. `&&` and `||`					`#advanced`
+
+#### 12. && and ||					`#advanced`
 
 Simple shell 1.0 +
 
-- Handle the && and || shell logical operators
+- Handle the `&&` and `||` shell logical operators
 
 ```
 alex@~$ ls /var && ls /var
@@ -497,8 +497,8 @@ alex@~$
 ```
 **Repo:**
 
-- GitHub repository: simple_shell
-   
+- GitHub repository: `simple_shell`
+
 #### 13. alias					`#advanced`
 
 Simple shell 1.0 +
@@ -512,7 +512,7 @@ Simple shell 1.0 +
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 14. Variables					`#advanced`
 
 Simple shell 1.0 +
@@ -537,7 +537,7 @@ julien@ubuntu:~/shell$
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 15. Comments					`#advanced`
 
 Simple shell 1.0 +
@@ -554,7 +554,7 @@ julien@ubuntu:~/shell$
 **Repo:**
 
 - GitHub repository: `simple_shell`
-   
+
 #### 16. File as input					`#advanced`
 
 Simple shell 1.0 +
