@@ -122,6 +122,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### Output
 - Unless specified otherwise, your program must have the exact same output as `sh` (`/bin/sh`) as well as the exact same error output.
 - The only difference is when you print an error, the name of the program must be equivalent to your `argv[0]` (See below)
+
 Example of error with `sh`:
 
 ```
@@ -205,10 +206,10 @@ $
 ```
 
 ### Checks
-The Checker will be released at the end of the project (1-2 days before the deadline). We strongly encourage the entire class to work together to create a suite of checks covering both regular tests and edge cases for each task. See task [8. Test suite].
+The Checker will be released at the end of the project (1-2 days before the deadline). We **strongly** encourage the entire class to work together to create a suite of checks covering both regular tests and edge cases for each task. See task `[8. Test suite](https://github.com/LaughingRover/SIMPLE_SHELL_TEST_SUITE)`.
 
 ## Tasks
-#### 0. Betty would be proud					`mandatory`
+#### 0. Betty would be proud                                     `mandatory`
 
 Write a beautiful code that passes the Betty checks
 
@@ -216,7 +217,7 @@ Write a beautiful code that passes the Betty checks
 
 - GitHub repository: `simple_shell`
    
-#### 1. Simple shell 0.1					`mandatory`
+#### 1. Simple shell 0.1                                         `mandatory`
 
 Write a UNIX command line interpreter.
 
