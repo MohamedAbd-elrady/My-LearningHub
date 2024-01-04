@@ -239,7 +239,7 @@ sylvain@ubuntu$
 
 #### 7. OMG WHY ARE YOU SHOUTING?					`mandatory`
 
-![](https://intranet.alxswe.com/images/contents/sysadmin/projects/78/shouting.jpg)
+![](./pics/7.jpg)
 
 Requirement:
 
