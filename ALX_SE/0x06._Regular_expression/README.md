@@ -85,7 +85,7 @@ What is the /Scho*l/ regexp matching?
 
 #### 0. Simply matching School					`mandatory`
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T185135Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9dc93fb750e672eeea1ad239aac1b32750ff3bc91559b5080a081d84f0808366)
+![](./pics/0.png)
 
 Requirements:
 
@@ -113,7 +113,7 @@ $
 
 #### 1. Repetition Token #0					`mandatory`
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/e7db3c377d46453588fc84f3a975661d142fee91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T185135Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b0b886bbbe5b614748a999ee09665683521b97f45b1d81aeff5ef7e40f512d8e)
+![](./pics/1.png)
 
 Requirements:
 
@@ -129,7 +129,7 @@ Requirements:
 
 #### 2. Repetition Token #1					`mandatory`
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T185135Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7044a3b205c06ddba02e681622c60593e7f92ce3ac428a6783593a1cb08930b6)
+![](./pics/2.png)
 
 Requirements:
 
@@ -145,7 +145,7 @@ Requirements:
 
 #### 3. Repetition Token #2					`mandatory`
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3b6bf4aeca6a0c2de584e7f5d68d11eef57ce205.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T185135Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cd51b375f4cb9612f0d0736f89f1f421490f4c8e8d0ddffd75e201c57fa869f2)
+![](./pics/3.png)
 
 Requirements:
 
@@ -161,7 +161,7 @@ Requirements:
 
 #### 4. Repetition Token #3					`mandatory`
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T185135Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8b51d53d0d8b086f0ce5b06cf5516f512e9d66039cbd9d9f2481e04f8f1ec7a4)
+![](./pics/4.png)
 
 Requirements:
 
