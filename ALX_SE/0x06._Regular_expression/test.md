@@ -1,10 +1,14 @@
 # 0x06. Regular expression
 `Regex` `DevOps`
-- By: Sylvain Kalache
-- `:gear:` Weight: 1
--  `:calendar:` Project will start Jan 3, 2024 5:00 AM, must end by Jan 5, 2024 5:00 AM
-- `:white_check_mark:` Checker was released at Jan 3, 2024 5:00 PM
-- `:white_check_mark:` An auto review will be launched at the deadline
+:bust_in_silhouette: By: Sylvain Kalache
+
+:gear: Weight: 1
+
+:calendar: Project will start Jan 3, 2024 5:00 AM, must end by Jan 5, 2024 5:00 AM
+
+:heavy_check_mark: Checker was released at Jan 3, 2024 5:00 PM
+
+:white_check_mark: An auto review will be launched at the deadline
 
 ### Concepts
 For this project, we expect you to look at these concepts:
