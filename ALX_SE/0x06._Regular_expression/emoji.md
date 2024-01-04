@@ -1,11 +1,11 @@
-`:bust_in_silhouette:`
+:bust_in_silhouette:
 
-`:user:`
+:user:
 
-`:gear:`
+:gear:
 
-`:check_mark:`
+:check_mark:
 
-`:white_check_mark:`
+:white_check_mark:
 
-`:calendar:`
+:calendar:
