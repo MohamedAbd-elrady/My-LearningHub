@@ -161,7 +161,7 @@ Requirements:
 
 #### 4. Repetition Token #3					`mandatory`
 
-![](https://tinyurl.com/2p8jw3h3)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T185135Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8b51d53d0d8b086f0ce5b06cf5516f512e9d66039cbd9d9f2481e04f8f1ec7a4)
 
 Requirements:
 
